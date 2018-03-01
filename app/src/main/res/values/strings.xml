@@ -8,5 +8,5 @@
     <string name="hacer_llamada">llamada</string>
     <string name="volver">Volver</string>
     <string name="soy_el_otro_activity">Esta es la otra Activity</string>
-    <string name="error_vacio">El mensaje no debe puede estar vacio!</string>
+    <string name="error_vacio">El mensaje no debe pero puede estar vacio!</string>
 </resources>
